@@ -18,8 +18,8 @@ from .config import level, output_file, auto_offset, hour_offset
 from .utils import set_background, get_desktop_environment
 
 counter = None
-height = 550
-width = 550
+height = 1600
+width = 2560
 
 
 def get_time_offset(latest_date):
